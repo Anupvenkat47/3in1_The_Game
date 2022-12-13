@@ -1,5 +1,5 @@
 # 3in1_The_Game
-_This is developed by **Anup Venkat** and **Anirudh Preeth** for Python Mini project at Dayananda Sagar University, Kudlu Gate_
+_This is developed by **Anup Venkat**(https://github.com/Anupvenkat47) and **Anirudh Preeth**(https://github.com/AnirudhPreeth) for Python Mini project at Dayananda Sagar University, Kudlu Gate_
 
 **Introduction**:
   Imagine if you where bored to the core while doing a work you hate to do, or doing that assignment that has to be submitted in 12 hours and you feel like taking a break, well you came to the right place to destroy your boredom.
